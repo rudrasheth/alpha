@@ -1,0 +1,501 @@
+record_id,client_id,client_name,client_type,region,relationship_manager,onboarding_date,aum_inr_crores,portfolio_count,kyc_status,kyc_expiry,risk_rating,status,last_reviewed,days_since_review,email,contact_phone,data_complete,validated
+CLT-REC-00001,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,8421.14,19,Verified,2026-11-07,Low,Active,2024-04-25,396,ops@temasekhol.com,+91-9353578283,True,True
+CLT-REC-00002,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,33552.47,19,Expired,2026-04-20,Low,Active,2024-10-13,225,ops@licofindia.com,+91-9956177341,True,True
+CLT-REC-00003,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,38756.54,11,Verified,2026-07-19,Low,Active,2024-09-03,265,ops@norgesbank.com,+91-8494905482,True,True
+CLT-REC-00004,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,23121.99,3,Verified,2025-09-09,High,Active,2025-01-26,120,ops@gicprivate.com,+91-7945537901,True,True
+CLT-REC-00005,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,29178.5,8,Verified,2026-03-08,Medium,Active,2024-01-17,495,ops@norgesbank.com,+91-8341350619,True,True
+CLT-REC-00006,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,16786.98,8,Verified,2026-04-04,High,Active,2024-03-26,426,ops@hdfcpensio.com,+91-7964013375,True,True
+CLT-REC-00007,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,40752.88,14,Verified,2027-01-14,Low,Active,2024-05-16,375,ops@norgesbank.com,+91-7507303434,True,True
+CLT-REC-00008,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,32780.35,18,Verified,2027-02-06,Medium,Active,2024-11-11,196,ops@emiratesnb.com,+91-8287023500,False,True
+CLT-REC-00009,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,43744.78,2,Verified,2026-05-27,Medium,Active,2024-09-09,259,ops@temasekhol.com,+91-9471049536,True,True
+CLT-REC-00010,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,14558.64,18,Verified,2026-05-21,High,Active,2024-07-26,304,ops@blackrocki.com,+91-7118262975,True,True
+CLT-REC-00011,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,33796.63,16,Pending,2026-08-22,Low,Active,2024-04-24,397,ops@iciciprude.com,,False,False
+CLT-REC-00012,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,42528.17,14,Verified,2027-04-30,Medium,Active,2024-11-07,200,ops@nipponindi.com,+91-9130964494,True,True
+CLT-REC-00013,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,27628.92,13,Verified,2027-04-02,Medium,Active,2024-07-22,308,ops@gicprivate.com,+91-7237591376,True,False
+CLT-REC-00014,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,32514.87,5,Verified,2025-05-12,High,Active,2024-11-02,205,ops@hdfcpensio.com,+91-9192095663,True,True
+CLT-REC-00015,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,46106.19,20,Verified,2025-11-16,High,Active,2025-02-10,105,ops@norgesbank.com,+91-9140613833,True,True
+CLT-REC-00016,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,12597.35,10,Verified,2027-02-05,Low,Active,2025-01-15,131,ops@gicprivate.com,+91-8415040014,True,True
+CLT-REC-00017,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,,2018-03-20,11598.19,12,Pending,2025-10-18,Medium,Active,2025-04-12,44,,,False,True
+CLT-REC-00018,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,31253.5,18,Expired,2026-05-14,Low,Active,2024-06-29,331,ops@iciciprude.com,+91-9792003668,True,False
+CLT-REC-00019,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,6363.83,1,Pending,2027-01-27,Medium,Active,2025-02-10,105,ops@tatainvest.com,+91-9717658930,True,False
+CLT-REC-00020,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,607.28,1,Verified,2026-11-24,High,Active,2024-04-21,400,ops@temasekhol.com,+91-9672176434,True,True
+CLT-REC-00021,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,8894.94,9,Pending,2025-09-19,Medium,Active,2025-04-25,31,ops@tatainvest.com,+91-7437171581,True,True
+CLT-REC-00022,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,42469.14,12,Verified,2027-05-14,Medium,Active,2024-05-13,378,ops@nipponindi.com,+91-8128722116,True,True
+CLT-REC-00023,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,12131.03,16,Verified,2026-01-08,Medium,Active,2024-06-10,350,ops@temasekhol.com,+91-8215808103,True,True
+CLT-REC-00024,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,31402.55,19,Verified,2027-01-15,Medium,Active,2024-04-08,413,ops@licofindia.com,+91-8328687586,True,True
+CLT-REC-00025,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,21456.85,12,Verified,2025-08-16,Medium,Active,2024-10-30,208,ops@licofindia.com,+91-7127086137,False,True
+CLT-REC-00026,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,33715.57,19,Verified,2027-01-12,Medium,Active,2024-09-21,247,ops@sbilifeins.com,+91-7451436852,True,True
+CLT-REC-00027,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,38373.59,12,Verified,2026-11-11,Low,Active,2025-03-16,71,ops@norgesbank.com,+91-9156709122,True,True
+CLT-REC-00028,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,5321.64,7,Expired,2027-04-28,Low,Active,2024-08-07,292,ops@blackrocki.com,+91-9847228597,True,False
+CLT-REC-00029,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,32833.34,19,Verified,2026-10-07,High,Active,2024-01-12,500,ops@licofindia.com,+91-7130192291,True,True
+CLT-REC-00030,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,27342.04,18,Verified,2026-03-15,Low,Active,2024-02-16,465,ops@blackrocki.com,+91-8123007244,True,True
+CLT-REC-00031,CLT0011,BlackRock India Fund,Hedge Fund,Americas,,2020-02-28,44114.78,17,Verified,2027-02-20,Low,Active,2025-03-30,57,,,False,True
+CLT-REC-00032,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,6330.8,5,Expired,2026-08-09,High,Active,2024-09-12,256,ops@adityabirl.com,+91-9293009199,True,True
+CLT-REC-00033,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,22009.95,6,Verified,2026-06-12,High,Active,2024-03-29,423,ops@temasekhol.com,+91-9181866391,True,True
+CLT-REC-00034,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,44035.68,8,Pending,2026-10-20,Medium,Active,2024-06-13,347,ops@gicprivate.com,+91-8307942764,True,False
+CLT-REC-00035,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,28611.78,11,Verified,2027-05-10,Medium,Active,2025-04-16,40,ops@iciciprude.com,,False,False
+CLT-REC-00036,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,22333.96,1,Verified,2026-01-13,High,Active,2024-03-26,426,ops@nipponindi.com,+91-8328997831,True,True
+CLT-REC-00037,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,19614.62,4,Verified,2025-07-08,High,Active,2024-07-16,314,ops@adityabirl.com,+91-9855980850,True,True
+CLT-REC-00038,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,4167.37,8,Verified,2027-03-28,High,Active,2024-08-11,288,ops@norgesbank.com,+91-7471446062,True,True
+CLT-REC-00039,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,15435.45,19,Verified,2026-04-29,Medium,Active,2024-02-10,471,ops@gicprivate.com,+91-7465710204,True,True
+CLT-REC-00040,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,21876.09,15,Expired,2026-10-02,High,Active,2024-05-10,381,ops@tatainvest.com,+91-8510426278,True,True
+CLT-REC-00041,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,32219.66,14,Verified,2025-06-17,Medium,Active,2024-02-28,453,ops@norgesbank.com,+91-9367456365,True,True
+CLT-REC-00042,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,47832.8,12,Verified,2025-09-10,High,Active,2024-10-21,217,ops@vanguardem.com,+91-7735891037,True,False
+CLT-REC-00043,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,39767.46,18,Verified,2025-07-12,Low,Active,2024-09-24,244,ops@gicprivate.com,+91-8815623972,True,False
+CLT-REC-00044,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,40644.9,20,Verified,2027-03-13,Medium,Active,2024-10-17,221,ops@iciciprude.com,+91-9253941043,True,True
+CLT-REC-00045,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,25017.29,18,Verified,2025-08-15,Low,Active,2024-11-25,182,ops@gicprivate.com,+91-7885271674,True,False
+CLT-REC-00046,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,11567.7,12,Verified,2025-11-03,Low,Active,2024-07-22,308,ops@licofindia.com,+91-9354958053,True,True
+CLT-REC-00047,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,29756.53,13,Verified,2026-04-13,Medium,Active,2025-02-10,105,ops@emiratesnb.com,+91-9413330305,True,False
+CLT-REC-00048,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,37643.94,6,Verified,2026-08-06,Medium,Active,2024-05-19,372,ops@abudhabiin.com,+91-9229744093,True,True
+CLT-REC-00049,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,18144.38,3,Verified,2026-03-23,High,Active,2025-03-29,58,ops@sbilifeins.com,+91-8196406416,True,True
+CLT-REC-00050,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,47785.79,4,Verified,2026-07-14,Low,Active,2025-03-08,79,ops@iciciprude.com,+91-8861080136,True,True
+CLT-REC-00051,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,46784.77,15,Verified,2025-10-30,Medium,Active,2024-10-09,229,ops@kotakmahin.com,+91-7580520551,True,True
+CLT-REC-00052,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,30175.53,19,Verified,2026-09-19,Medium,Active,2025-02-03,112,ops@licofindia.com,+91-7289198179,True,True
+CLT-REC-00053,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,33886.93,8,Verified,2025-11-26,High,Active,2024-09-12,256,ops@kotakmahin.com,+91-9431352258,True,True
+CLT-REC-00054,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,15938.97,9,Verified,2026-05-04,High,Active,2024-03-09,443,ops@iciciprude.com,+91-9481788720,True,True
+CLT-REC-00055,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,28981.45,9,Verified,2026-05-03,High,Active,2024-03-18,434,ops@nipponindi.com,+91-9650399618,True,True
+CLT-REC-00056,CLT0005,Kotak Mahindra AMC,AMC,APAC,,2021-04-18,22958.08,10,Verified,2026-09-28,Medium,Active,2025-04-10,46,,,False,True
+CLT-REC-00057,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,12975.87,1,Verified,2026-01-03,Medium,Active,2025-01-24,122,ops@norgesbank.com,+91-7580761090,True,False
+CLT-REC-00058,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,49709.57,13,Verified,2026-09-05,Low,Active,2024-05-18,373,ops@hdfcpensio.com,+91-9988267744,True,True
+CLT-REC-00059,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,6400.62,14,Verified,2027-03-22,Low,Active,2024-07-03,327,ops@licofindia.com,+91-7555796049,True,True
+CLT-REC-00060,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,23700.29,9,Verified,2025-12-09,High,Active,2024-03-19,433,ops@adityabirl.com,+91-9619543793,True,True
+CLT-REC-00061,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,35615.32,19,Verified,2026-10-07,Low,Active,2025-04-02,54,ops@blackrocki.com,+91-8521493584,True,True
+CLT-REC-00062,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,3253.68,14,Expired,2026-11-19,High,Active,2024-02-22,459,ops@kotakmahin.com,+91-9081605564,True,False
+CLT-REC-00063,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,40631.85,14,Verified,2025-05-21,Medium,Active,2024-05-23,368,ops@gicprivate.com,+91-8754459555,True,True
+CLT-REC-00064,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,2872.11,19,Verified,2025-09-23,High,Active,2024-09-22,246,ops@hdfcpensio.com,+91-7691463222,True,True
+CLT-REC-00065,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,46316.58,14,Verified,2025-05-16,High,Active,2024-06-29,331,ops@norgesbank.com,+91-9440761698,True,True
+CLT-REC-00066,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,19005.47,10,Verified,2026-09-12,High,Active,2024-06-25,335,ops@emiratesnb.com,+91-8083868888,True,True
+CLT-REC-00067,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,48073.72,14,Pending,2025-09-28,Low,Active,2024-03-16,436,ops@temasekhol.com,+91-8197818240,True,True
+CLT-REC-00068,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,49961.09,16,Verified,2026-08-05,Medium,Active,2024-05-18,373,ops@temasekhol.com,+91-8271454764,True,True
+CLT-REC-00069,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,34050.57,18,Verified,2027-02-11,Medium,Active,2024-06-21,339,ops@temasekhol.com,+91-7813129949,True,True
+CLT-REC-00070,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,13864.84,15,Verified,2025-07-17,Medium,Active,2024-06-12,348,ops@blackrocki.com,+91-7107434698,True,True
+CLT-REC-00071,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,27528.03,19,Verified,2025-12-01,Low,Active,2024-12-05,172,ops@licofindia.com,+91-8836616057,True,False
+CLT-REC-00072,CLT0008,Nippon India MF,AMC,APAC,,2020-06-14,27720.08,18,Pending,2026-08-16,Medium,Active,2024-09-26,242,,,False,True
+CLT-REC-00073,CLT0005,Kotak Mahindra AMC,AMC,APAC,,2021-04-18,9412.55,10,Verified,2026-11-03,High,Active,2024-08-09,290,,,False,True
+CLT-REC-00074,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,32053.04,16,Verified,2025-06-01,High,Active,2024-03-07,445,ops@hdfcpensio.com,+91-7802241598,True,True
+CLT-REC-00075,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,28489.13,2,Verified,2026-01-14,High,Active,2024-05-02,389,ops@temasekhol.com,+91-9999093780,True,True
+CLT-REC-00076,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,10946.81,15,Verified,2025-12-19,Medium,Active,2024-09-10,258,ops@licofindia.com,+91-9208149011,True,True
+CLT-REC-00077,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,33796.01,14,Verified,2026-10-15,Low,Active,2024-02-03,478,ops@kotakmahin.com,+91-7899733850,True,True
+CLT-REC-00078,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,34670.17,4,Pending,2027-05-11,Low,Active,2024-08-25,274,ops@gicprivate.com,+91-9629003432,True,True
+CLT-REC-00079,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,33739.88,15,Verified,2026-10-11,High,Active,2025-02-10,105,ops@vanguardem.com,+91-8071002719,True,False
+CLT-REC-00080,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,26163.88,6,Pending,2025-10-12,Low,Active,2024-09-09,259,ops@licofindia.com,+91-8917920206,True,True
+CLT-REC-00081,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,25207.5,16,Verified,2026-10-23,Medium,Active,2025-04-28,28,ops@iciciprude.com,+91-7774400239,True,True
+CLT-REC-00082,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,22798.51,15,Verified,2025-09-16,Low,Active,2024-03-02,450,ops@emiratesnb.com,+91-8857393996,True,True
+CLT-REC-00083,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,43551.33,8,Verified,2026-01-01,Low,Active,2024-09-22,246,,,False,True
+CLT-REC-00084,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,40779.74,13,Verified,2025-07-09,Medium,Active,2024-12-18,159,ops@adityabirl.com,+91-9518565058,True,True
+CLT-REC-00085,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,32173.25,18,Expired,2027-02-05,Medium,Active,2024-06-28,332,ops@temasekhol.com,+91-9906717967,False,True
+CLT-REC-00086,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,36621.99,19,Pending,2026-12-04,Low,Active,2024-09-23,245,ops@adityabirl.com,+91-9768398876,True,True
+CLT-REC-00087,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,6346.16,11,Verified,2026-09-24,Low,Active,2024-04-16,405,ops@vanguardem.com,+91-7760516106,True,True
+CLT-REC-00088,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,31727.83,6,Verified,2027-04-14,High,Active,2024-11-27,180,ops@blackrocki.com,+91-9766924558,True,True
+CLT-REC-00089,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,8228.91,20,Verified,2025-08-18,High,Active,2024-03-12,440,ops@abudhabiin.com,+91-8277906920,True,True
+CLT-REC-00090,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,39304.1,1,Verified,2026-10-11,Low,Active,2025-04-30,26,ops@licofindia.com,+91-8760229696,True,True
+CLT-REC-00091,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,26224.8,4,Verified,2026-04-07,High,Active,2024-07-12,318,ops@sbilifeins.com,+91-8317129435,True,False
+CLT-REC-00092,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,41778.42,10,Verified,2027-05-21,Medium,Active,2024-09-13,255,ops@iciciprude.com,+91-7971770000,True,True
+CLT-REC-00093,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,37753.58,9,Verified,2027-01-01,High,Active,2024-04-12,409,ops@iciciprude.com,+91-8565713036,True,True
+CLT-REC-00094,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,9504.97,19,Verified,2025-09-25,High,Active,2025-04-28,28,ops@adityabirl.com,+91-7797950649,True,True
+CLT-REC-00095,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,24291.78,18,Verified,2026-06-26,Low,Active,2025-02-26,89,ops@blackrocki.com,+91-9824686025,True,True
+CLT-REC-00096,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,1754.01,15,Verified,2027-03-14,High,Active,2024-09-06,262,ops@sbilifeins.com,+91-9839534464,True,True
+CLT-REC-00097,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,31710.99,1,Verified,2026-10-09,High,Active,2024-09-15,253,ops@nipponindi.com,+91-8288122422,True,True
+CLT-REC-00098,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,45579.0,19,Verified,2026-05-05,Low,Active,2025-03-12,75,ops@blackrocki.com,+91-8479208450,True,True
+CLT-REC-00099,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,7715.06,2,Verified,2026-01-08,High,Active,2024-03-30,422,ops@tatainvest.com,+91-9038872431,True,True
+CLT-REC-00100,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,38459.8,12,Verified,2025-10-31,High,Active,2024-01-30,482,ops@vanguardem.com,+91-8279219326,True,True
+CLT-REC-00101,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,48572.59,17,Verified,2025-07-07,High,Active,2024-07-11,319,ops@adityabirl.com,+91-8249418990,True,True
+CLT-REC-00102,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,45168.34,11,Verified,2025-11-03,Medium,Active,2024-03-02,450,ops@hdfcpensio.com,+91-7257570560,True,True
+CLT-REC-00103,CLT0012,Vanguard Emerging Markets,AMC,Americas,,2019-07-15,36519.68,11,Verified,2027-04-04,High,Active,2024-01-27,485,,,False,True
+CLT-REC-00104,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,8466.01,3,Verified,2025-05-05,Medium,Active,2024-05-28,363,ops@gicprivate.com,+91-8758603669,True,True
+CLT-REC-00105,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,25822.17,7,Verified,2027-01-27,Low,Active,2024-03-12,440,ops@temasekhol.com,+91-8712928479,True,True
+CLT-REC-00106,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,25364.14,9,Verified,2026-07-04,Low,Active,2025-03-17,70,ops@blackrocki.com,+91-7909873887,True,True
+CLT-REC-00107,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,48743.3,11,Verified,2026-12-27,High,Active,2024-04-06,415,ops@emiratesnb.com,+91-8870588304,True,True
+CLT-REC-00108,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,41497.04,4,Verified,2026-09-24,Medium,Active,2025-05-19,7,ops@sbilifeins.com,+91-9895125859,True,True
+CLT-REC-00109,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,9652.67,8,Verified,2025-10-04,Medium,Active,2025-01-24,122,ops@kotakmahin.com,+91-9097226198,True,True
+CLT-REC-00110,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,3949.28,14,Verified,2026-09-03,Low,Active,2025-02-20,95,ops@temasekhol.com,+91-8748402407,True,False
+CLT-REC-00111,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,13507.6,14,Verified,2027-03-04,High,Active,2024-05-06,385,ops@kotakmahin.com,+91-9474083451,False,True
+CLT-REC-00112,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,21746.05,7,Verified,2025-09-23,High,Active,2024-08-15,284,ops@sbilifeins.com,+91-7126796700,True,False
+CLT-REC-00113,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,30246.23,17,Verified,2025-07-09,Low,Active,2025-04-03,53,ops@blackrocki.com,+91-8277021933,True,True
+CLT-REC-00114,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,24756.56,8,Verified,2026-07-02,Medium,Active,2025-03-20,67,ops@vanguardem.com,+91-9073674426,True,True
+CLT-REC-00115,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,22458.83,13,Expired,2025-05-21,Low,Active,2024-08-02,297,ops@abudhabiin.com,+91-9680224392,True,False
+CLT-REC-00116,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,31230.88,20,Verified,2025-12-19,High,Active,2024-11-04,203,ops@norgesbank.com,+91-8017228296,True,True
+CLT-REC-00117,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,17467.8,8,Verified,2027-01-26,Low,Active,2024-01-01,511,ops@nipponindi.com,+91-7913306938,True,True
+CLT-REC-00118,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,45293.64,10,Verified,2026-09-09,Low,Active,2024-02-07,474,ops@gicprivate.com,+91-8505175632,True,True
+CLT-REC-00119,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,43932.6,2,Verified,2027-05-25,Low,Active,2024-07-07,323,ops@blackrocki.com,+91-8274156550,True,True
+CLT-REC-00120,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,2430.2,7,Verified,2026-04-13,Medium,Active,2025-01-20,126,ops@abudhabiin.com,,False,True
+CLT-REC-00121,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,28700.34,10,Verified,2025-07-22,High,Active,2024-09-10,258,ops@iciciprude.com,+91-7559519765,True,True
+CLT-REC-00122,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,35589.91,6,Verified,2026-05-08,High,Active,2024-10-07,231,ops@emiratesnb.com,+91-8302830543,True,False
+CLT-REC-00123,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,23482.12,2,Verified,2026-12-22,Low,Active,2024-06-23,337,ops@nipponindi.com,+91-8094894262,True,True
+CLT-REC-00124,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,24462.92,20,Verified,2025-11-22,Low,Active,2024-11-18,189,ops@nipponindi.com,+91-9038083224,True,True
+CLT-REC-00125,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,30232.2,11,Verified,2026-08-13,Low,Active,2024-03-14,438,ops@norgesbank.com,+91-9371964690,True,True
+CLT-REC-00126,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,26650.43,4,Verified,2025-11-20,High,Active,2024-02-24,457,ops@adityabirl.com,+91-8887292006,True,True
+CLT-REC-00127,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,8057.17,4,Verified,2026-02-01,Medium,Active,2024-10-21,217,ops@hdfcpensio.com,+91-8032168843,True,True
+CLT-REC-00128,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,17492.13,6,Verified,2027-02-15,Medium,Active,2024-11-18,189,ops@vanguardem.com,+91-7573496948,True,True
+CLT-REC-00129,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,38106.9,20,Pending,2026-11-14,Medium,Active,2024-12-20,157,ops@blackrocki.com,+91-9705882897,True,True
+CLT-REC-00130,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,4945.98,17,Verified,2027-01-12,Low,Active,2024-02-04,477,ops@vanguardem.com,+91-7854152462,True,False
+CLT-REC-00131,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,18674.77,19,Verified,2027-03-17,High,Active,2024-07-03,327,ops@abudhabiin.com,+91-8636994196,True,True
+CLT-REC-00132,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,21165.08,4,Pending,2025-07-22,Medium,Active,2025-01-23,123,ops@blackrocki.com,+91-8483375918,True,True
+CLT-REC-00133,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,5184.78,12,Expired,2025-05-25,Low,Active,2024-12-28,149,ops@norgesbank.com,+91-8391432452,True,True
+CLT-REC-00134,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,33850.92,2,Verified,2027-02-25,Low,Active,2024-02-27,454,ops@emiratesnb.com,+91-8526844529,True,True
+CLT-REC-00135,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,24262.62,6,Verified,2025-11-04,Medium,Active,2025-05-10,16,ops@blackrocki.com,+91-7076081175,True,True
+CLT-REC-00136,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,27227.04,1,Pending,2026-07-05,Low,Active,2024-08-06,293,ops@gicprivate.com,+91-9615227975,True,True
+CLT-REC-00137,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,39037.45,8,Verified,2027-04-14,Low,Active,2024-05-21,370,ops@hdfcpensio.com,+91-7057641649,True,True
+CLT-REC-00138,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,33294.13,15,Verified,2025-07-01,High,Active,2025-05-26,0,ops@abudhabiin.com,+91-7427535475,True,True
+CLT-REC-00139,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,21886.16,3,Verified,2025-06-07,Low,Active,2024-04-22,399,ops@hdfcpensio.com,+91-8158789417,True,True
+CLT-REC-00140,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,16857.87,2,Verified,2025-11-24,Medium,Active,2024-07-22,308,ops@sbilifeins.com,+91-9184411246,True,True
+CLT-REC-00141,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,45037.47,1,Verified,2027-05-10,Medium,Active,2024-03-01,451,ops@adityabirl.com,+91-8407043784,True,False
+CLT-REC-00142,CLT0006,LIC of India,Insurance,APAC,,2016-09-30,37606.65,15,Expired,2026-12-09,Low,Active,2024-04-21,400,,,False,False
+CLT-REC-00143,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,29675.5,9,Verified,2025-09-07,Medium,Active,2024-07-10,320,ops@tatainvest.com,+91-8486791224,True,True
+CLT-REC-00144,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,13255.21,6,Verified,2025-11-27,Low,Active,2024-07-20,310,ops@norgesbank.com,+91-9770060828,True,True
+CLT-REC-00145,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,10355.54,1,Verified,2026-10-05,High,Active,2024-11-05,202,ops@norgesbank.com,+91-9732553064,True,False
+CLT-REC-00146,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,20294.89,3,Verified,2025-09-16,Medium,Active,2024-08-11,288,ops@hdfcpensio.com,+91-8814837899,True,True
+CLT-REC-00147,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,47417.29,9,Verified,2027-02-25,Low,Active,2025-05-10,16,ops@tatainvest.com,+91-7051355491,True,True
+CLT-REC-00148,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,42014.78,15,Pending,2027-05-04,High,Active,2024-05-03,388,ops@vanguardem.com,+91-7057279806,True,True
+CLT-REC-00149,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,41333.48,16,Verified,2026-04-08,Low,Active,2025-03-05,82,ops@temasekhol.com,+91-7850674183,True,True
+CLT-REC-00150,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,17856.98,15,Verified,2025-12-06,Medium,Active,2024-09-05,263,ops@blackrocki.com,+91-7169198046,True,True
+CLT-REC-00151,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,10360.68,13,Pending,2025-11-21,Medium,Active,2024-02-16,465,ops@blackrocki.com,+91-7912947244,False,True
+CLT-REC-00152,CLT0006,LIC of India,Insurance,APAC,,2016-09-30,15986.55,8,Verified,2027-05-04,Medium,Active,2024-01-23,489,,,False,True
+CLT-REC-00153,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,12197.47,16,Verified,2026-02-14,Medium,Active,2025-02-08,107,ops@gicprivate.com,+91-9922454368,True,False
+CLT-REC-00154,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,40711.84,6,Verified,2025-12-28,Low,Active,2025-02-26,89,ops@blackrocki.com,+91-8052323969,True,True
+CLT-REC-00155,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,39326.57,1,Verified,2025-12-23,Low,Active,2025-03-19,68,ops@blackrocki.com,+91-7551374699,True,True
+CLT-REC-00156,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,7180.52,17,Verified,2025-09-06,Low,Active,2025-04-06,50,ops@abudhabiin.com,+91-9595245108,True,True
+CLT-REC-00157,CLT0001,Tata Investment Corp,Institutional,APAC,,2019-03-15,16849.58,3,Verified,2025-11-02,High,Active,2025-05-15,11,,,False,True
+CLT-REC-00158,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,49199.42,19,Verified,2026-12-06,Medium,Active,2024-09-27,241,ops@blackrocki.com,+91-8511710123,True,True
+CLT-REC-00159,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,31766.03,9,Pending,2026-04-24,High,Active,2025-01-01,145,ops@temasekhol.com,+91-9896173413,True,False
+CLT-REC-00160,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,3670.65,2,Verified,2026-12-24,Low,Active,2025-03-28,59,ops@blackrocki.com,+91-9408647727,False,True
+CLT-REC-00161,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,10994.89,10,Verified,2025-12-04,Low,Active,2024-04-19,402,ops@sbilifeins.com,+91-7400925972,True,True
+CLT-REC-00162,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,44259.07,2,Verified,2025-10-12,High,Active,2024-02-08,473,ops@norgesbank.com,+91-8420984414,True,True
+CLT-REC-00163,CLT0004,HDFC Pension Fund,Pension Fund,APAC,,2017-11-05,30013.55,1,Verified,2026-09-23,Medium,Active,2024-05-12,379,,,False,True
+CLT-REC-00164,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,18099.67,2,Verified,2027-04-07,Low,Active,2025-04-08,48,ops@tatainvest.com,+91-8398375770,True,True
+CLT-REC-00165,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,849.29,6,Verified,2027-02-08,Low,Active,2025-03-18,69,ops@abudhabiin.com,+91-8141066996,True,True
+CLT-REC-00166,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,24925.52,8,Verified,2025-12-15,Medium,Active,2024-08-24,275,ops@nipponindi.com,+91-9645084460,True,True
+CLT-REC-00167,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,2231.55,19,Expired,2026-09-09,Medium,Active,2024-01-15,497,ops@nipponindi.com,+91-7985032368,True,False
+CLT-REC-00168,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,23166.07,8,Verified,2026-05-26,Medium,Active,2024-05-20,371,ops@blackrocki.com,+91-8111383156,True,True
+CLT-REC-00169,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,14076.12,1,Verified,2026-09-18,Medium,Active,2024-04-06,415,ops@adityabirl.com,+91-8687799422,True,True
+CLT-REC-00170,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,12786.52,10,Verified,2025-12-22,High,Active,2024-11-12,195,ops@kotakmahin.com,,False,True
+CLT-REC-00171,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,8506.96,20,Verified,2027-04-23,Low,Active,2024-11-12,195,ops@nipponindi.com,+91-8984076189,True,True
+CLT-REC-00172,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,27016.5,10,Verified,2026-10-27,High,Active,2024-07-10,320,ops@norgesbank.com,+91-9696187559,True,True
+CLT-REC-00173,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,20873.73,8,Verified,2025-10-30,High,Active,2025-01-10,136,ops@gicprivate.com,+91-9341129974,True,True
+CLT-REC-00174,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,2918.11,10,Verified,2026-06-13,Medium,Active,2024-02-22,459,ops@sbilifeins.com,,False,False
+CLT-REC-00175,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,35600.52,12,Verified,2026-06-15,Medium,Active,2025-01-03,143,ops@norgesbank.com,+91-9320930515,True,False
+CLT-REC-00176,CLT0014,Temasek Holdings,Sovereign,APAC,,2016-10-08,46600.73,17,Verified,2025-12-26,High,Active,2024-05-18,373,,,False,True
+CLT-REC-00177,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,8650.62,8,Verified,2026-05-02,High,Active,2024-10-13,225,ops@tatainvest.com,+91-8138446404,True,True
+CLT-REC-00178,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,28974.92,2,Pending,2026-11-12,Low,Active,2025-02-25,90,ops@vanguardem.com,+91-7977081887,True,True
+CLT-REC-00179,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,43097.32,5,Verified,2026-02-14,Medium,Active,2025-01-28,118,ops@iciciprude.com,+91-7788699343,True,False
+CLT-REC-00180,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,18564.06,16,Verified,2025-09-04,Low,Active,2024-05-04,387,ops@licofindia.com,+91-8451744476,True,True
+CLT-REC-00181,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,7038.8,9,Expired,2026-11-09,Medium,Active,2025-05-06,20,ops@temasekhol.com,+91-8955777362,False,False
+CLT-REC-00182,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,44492.45,19,Verified,2026-02-04,Medium,Active,2024-02-13,468,ops@blackrocki.com,+91-7423598081,True,True
+CLT-REC-00183,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,21239.51,17,Verified,2026-02-17,Medium,Active,2024-02-27,454,ops@licofindia.com,+91-9924520568,True,True
+CLT-REC-00184,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,734.87,3,Verified,2026-05-25,Low,Active,2024-11-10,197,ops@vanguardem.com,+91-7659224866,True,True
+CLT-REC-00185,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,1657.13,15,Verified,2025-08-14,Low,Active,2024-02-25,456,ops@nipponindi.com,+91-8842325042,True,False
+CLT-REC-00186,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,38937.08,5,Expired,2027-03-16,High,Active,2024-05-28,363,,,False,True
+CLT-REC-00187,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,3567.01,18,Verified,2025-08-05,Medium,Active,2024-01-17,495,ops@abudhabiin.com,+91-9255260665,True,True
+CLT-REC-00188,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,34486.06,11,Verified,2027-04-12,Low,Active,2025-01-31,115,ops@blackrocki.com,+91-7774349685,True,True
+CLT-REC-00189,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,30128.01,2,Verified,2027-01-21,Low,Active,2024-05-27,364,ops@vanguardem.com,+91-8072283812,True,True
+CLT-REC-00190,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,23963.11,6,Verified,2027-01-25,Medium,Active,2024-05-02,389,ops@sbilifeins.com,+91-7619563284,True,True
+CLT-REC-00191,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,26098.21,5,Verified,2027-03-02,High,Active,2025-03-30,57,ops@emiratesnb.com,+91-8746190447,True,True
+CLT-REC-00192,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,35553.31,19,Verified,2026-11-16,Medium,Active,2025-02-25,90,ops@iciciprude.com,+91-7962719717,True,True
+CLT-REC-00193,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,17037.86,15,Expired,2025-07-17,High,Active,2024-12-23,154,ops@nipponindi.com,+91-9664536213,True,False
+CLT-REC-00194,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,26742.99,15,Verified,2026-07-13,Low,Active,2024-04-26,395,ops@vanguardem.com,+91-7934812125,True,True
+CLT-REC-00195,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,47560.01,5,Verified,2026-07-23,High,Active,2024-09-24,244,ops@emiratesnb.com,+91-7909240861,True,True
+CLT-REC-00196,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,12099.95,3,Verified,2027-02-28,High,Active,2024-04-22,399,ops@iciciprude.com,+91-9643489939,True,True
+CLT-REC-00197,CLT0005,Kotak Mahindra AMC,AMC,APAC,,2021-04-18,7102.93,6,Expired,2026-10-29,Low,Active,2025-02-05,110,,,False,False
+CLT-REC-00198,CLT0012,Vanguard Emerging Markets,AMC,Americas,,2019-07-15,31643.61,19,Expired,2026-03-21,High,Active,2024-11-10,197,,,False,True
+CLT-REC-00199,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,4910.52,8,Expired,2025-09-19,Medium,Active,2024-10-12,226,ops@sbilifeins.com,+91-8475555553,True,True
+CLT-REC-00200,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,12386.81,3,Verified,2027-03-26,Low,Active,2024-05-12,379,ops@vanguardem.com,+91-8157815397,True,True
+CLT-REC-00201,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,17461.43,9,Expired,2026-04-11,High,Active,2024-05-31,360,ops@gicprivate.com,+91-9942751940,True,True
+CLT-REC-00202,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,27322.55,5,Verified,2025-06-22,High,Active,2024-08-11,288,ops@kotakmahin.com,+91-8641811994,True,False
+CLT-REC-00203,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,48904.68,12,Verified,2025-11-09,Medium,Active,2024-05-09,382,ops@abudhabiin.com,+91-9977301801,True,True
+CLT-REC-00204,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,36042.75,18,Verified,2026-12-10,Medium,Active,2024-05-20,371,ops@licofindia.com,+91-7654286295,True,True
+CLT-REC-00205,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,22404.86,14,Verified,2026-09-01,High,Active,2024-05-18,373,ops@licofindia.com,+91-9787435307,True,True
+CLT-REC-00206,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,14927.22,8,Verified,2027-01-13,Low,Active,2025-02-09,106,ops@abudhabiin.com,+91-9116078127,True,False
+CLT-REC-00207,CLT0011,BlackRock India Fund,Hedge Fund,Americas,,2020-02-28,15967.83,6,Verified,2025-07-06,Medium,Active,2024-05-14,377,,,False,False
+CLT-REC-00208,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,38264.52,3,Expired,2025-08-11,Medium,Active,2024-06-04,356,ops@nipponindi.com,+91-7255023916,True,True
+CLT-REC-00209,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,1160.08,1,Verified,2026-08-22,Low,Active,2025-02-06,109,ops@sbilifeins.com,+91-9067579588,True,True
+CLT-REC-00210,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,45389.81,6,Verified,2025-05-31,High,Active,2024-10-22,216,ops@tatainvest.com,+91-9469521887,True,True
+CLT-REC-00211,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,5079.42,20,Pending,2027-01-18,Medium,Active,2024-04-29,392,ops@adityabirl.com,+91-7526934262,True,True
+CLT-REC-00212,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,17578.6,13,Verified,2025-07-27,Medium,Active,2024-07-06,324,ops@emiratesnb.com,+91-8750438595,True,True
+CLT-REC-00213,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,13997.65,13,Verified,2026-04-07,High,Active,2025-02-12,103,ops@emiratesnb.com,+91-7076513653,True,True
+CLT-REC-00214,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,760.49,14,Expired,2025-10-06,High,Active,2025-01-31,115,ops@licofindia.com,+91-8504329380,True,True
+CLT-REC-00215,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,41095.43,20,Verified,2027-01-30,Low,Active,2025-05-14,12,ops@temasekhol.com,+91-9270277098,True,False
+CLT-REC-00216,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,40858.46,7,Pending,2026-06-20,Low,Active,2024-03-16,436,ops@nipponindi.com,+91-8506418456,True,True
+CLT-REC-00217,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,12559.7,4,Verified,2025-09-17,High,Active,2024-08-26,273,ops@hdfcpensio.com,+91-9100468813,True,True
+CLT-REC-00218,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,16341.1,16,Pending,2026-10-19,Low,Active,2024-10-19,219,ops@iciciprude.com,+91-9453157874,True,True
+CLT-REC-00219,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,42500.98,16,Verified,2025-07-26,Low,Active,2024-10-12,226,ops@abudhabiin.com,+91-8026742096,True,True
+CLT-REC-00220,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,29600.08,4,Verified,2026-10-03,Medium,Active,2025-05-01,25,ops@hdfcpensio.com,+91-7006356352,True,True
+CLT-REC-00221,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,39132.09,9,Verified,2025-05-02,High,Active,2024-02-23,458,ops@nipponindi.com,+91-7900974151,True,True
+CLT-REC-00222,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,22285.58,3,Verified,2025-05-08,Medium,Active,2025-05-07,19,ops@vanguardem.com,+91-9516297402,True,True
+CLT-REC-00223,CLT0007,ICICI Prudential AMC,AMC,APAC,,2019-12-01,14568.42,18,Verified,2026-04-16,Medium,Active,2024-12-18,159,,,False,True
+CLT-REC-00224,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,5790.3,10,Verified,2026-02-17,Low,Active,2024-12-11,166,ops@temasekhol.com,+91-8045835741,True,False
+CLT-REC-00225,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,16141.53,6,Verified,2027-03-03,Medium,Active,2024-05-12,379,ops@emiratesnb.com,+91-8474580909,True,True
+CLT-REC-00226,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,26999.91,2,Expired,2026-05-23,Low,Active,2024-09-08,260,ops@hdfcpensio.com,+91-9127307920,True,True
+CLT-REC-00227,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,14480.56,7,Verified,2025-07-23,Low,Active,2024-02-15,466,ops@abudhabiin.com,+91-7044298882,True,True
+CLT-REC-00228,CLT0002,Aditya Birla Capital,Institutional,APAC,,2018-07-22,1883.04,13,Verified,2025-04-30,High,Active,2024-12-26,151,,,False,True
+CLT-REC-00229,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,43152.7,14,Verified,2026-08-31,Low,Active,2024-04-25,396,ops@iciciprude.com,+91-7967953284,True,True
+CLT-REC-00230,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,3140.55,20,Verified,2026-02-05,High,Active,2024-07-05,325,ops@gicprivate.com,+91-9257556581,True,True
+CLT-REC-00231,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,44077.77,19,Expired,2026-10-01,High,Active,2024-12-23,154,ops@adityabirl.com,+91-8200201230,True,True
+CLT-REC-00232,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,33749.26,9,Pending,2027-01-02,Low,Active,2024-08-13,286,ops@hdfcpensio.com,+91-9700708191,True,False
+CLT-REC-00233,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,2257.92,8,Verified,2025-10-01,Low,Active,2025-03-13,74,ops@blackrocki.com,+91-9935483815,True,True
+CLT-REC-00234,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,9544.14,12,Verified,2026-03-16,Medium,Active,2024-06-18,342,ops@emiratesnb.com,+91-9916851920,True,True
+CLT-REC-00235,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,16993.25,5,Verified,2026-03-16,Low,Active,2024-02-08,473,ops@sbilifeins.com,+91-9794663345,True,True
+CLT-REC-00236,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,8006.01,14,Verified,2026-04-29,Medium,Active,2025-03-30,57,ops@emiratesnb.com,+91-9131596940,True,True
+CLT-REC-00237,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,27565.12,17,Verified,2025-11-06,Low,Active,2025-04-21,35,ops@vanguardem.com,+91-9200668497,True,True
+CLT-REC-00238,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,30346.78,5,Verified,2025-06-05,Medium,Active,2024-08-03,296,ops@temasekhol.com,+91-8826028264,True,True
+CLT-REC-00239,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,18012.27,10,Verified,2026-12-17,Low,Active,2025-01-19,127,ops@abudhabiin.com,+91-8721022453,True,True
+CLT-REC-00240,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,37589.82,19,Verified,2026-09-14,Medium,Active,2025-03-17,70,ops@temasekhol.com,+91-7035309194,True,True
+CLT-REC-00241,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,32581.46,9,Verified,2026-11-18,High,Active,2024-11-01,206,ops@emiratesnb.com,+91-7010492280,False,True
+CLT-REC-00242,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,48220.73,1,Verified,2026-04-30,High,Active,2024-12-27,150,ops@temasekhol.com,+91-9288672445,True,True
+CLT-REC-00243,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,32806.62,18,Verified,2025-10-31,Medium,Active,2024-11-24,183,ops@blackrocki.com,+91-8410326108,True,True
+CLT-REC-00244,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,49896.32,15,Expired,2026-02-28,Low,Active,2024-03-05,447,ops@kotakmahin.com,+91-8938130865,True,True
+CLT-REC-00245,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,9752.4,12,Verified,2026-12-01,High,Active,2024-07-21,309,ops@adityabirl.com,+91-7504974205,True,False
+CLT-REC-00246,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,32412.33,12,Verified,2027-03-17,High,Active,2024-08-24,275,ops@iciciprude.com,+91-8748163097,True,True
+CLT-REC-00247,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,3061.4,6,Verified,2026-12-12,Low,Active,2025-03-13,74,ops@abudhabiin.com,+91-8108682080,True,True
+CLT-REC-00248,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,3913.43,8,Expired,2026-03-12,High,Active,2024-01-08,504,ops@blackrocki.com,+91-9405510001,True,True
+CLT-REC-00249,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,12174.33,6,Verified,2026-03-06,Medium,Active,2024-10-24,214,ops@adityabirl.com,+91-9131630170,True,True
+CLT-REC-00250,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,16089.83,12,Verified,2025-10-04,Low,Active,2024-07-06,324,ops@temasekhol.com,+91-9392092628,True,True
+CLT-REC-00251,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,43797.24,17,Verified,2025-06-15,Medium,Active,2024-08-15,284,ops@abudhabiin.com,+91-7662239176,True,True
+CLT-REC-00252,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,5382.15,2,Verified,2026-08-07,Low,Active,2024-05-18,373,ops@emiratesnb.com,+91-8443911139,True,True
+CLT-REC-00253,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,42512.16,15,Verified,2026-03-03,Medium,Active,2024-12-26,151,ops@adityabirl.com,+91-7363236867,True,True
+CLT-REC-00254,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,37900.19,1,Verified,2026-04-08,High,Active,2024-10-12,226,ops@emiratesnb.com,+91-8392718362,True,True
+CLT-REC-00255,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,45098.58,7,Verified,2025-12-07,High,Active,2024-11-29,178,ops@emiratesnb.com,+91-9097285832,True,True
+CLT-REC-00256,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,27406.33,12,Verified,2027-03-06,Medium,Active,2024-01-08,504,ops@blackrocki.com,+91-7676214208,True,True
+CLT-REC-00257,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,13659.48,8,Pending,2026-03-16,Low,Active,2024-04-22,399,ops@licofindia.com,+91-9454808221,True,True
+CLT-REC-00258,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,30302.78,4,Verified,2025-10-08,Low,Active,2025-02-21,94,ops@abudhabiin.com,+91-9023974142,True,True
+CLT-REC-00259,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,23973.86,13,Verified,2025-06-14,Low,Active,2024-07-27,303,ops@iciciprude.com,+91-8482142952,True,False
+CLT-REC-00260,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,48856.51,15,Verified,2026-11-02,Low,Active,2025-05-09,17,ops@sbilifeins.com,+91-7527933254,True,True
+CLT-REC-00261,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,18189.64,19,Verified,2026-02-10,Medium,Active,2024-01-18,494,ops@kotakmahin.com,+91-7215564212,True,True
+CLT-REC-00262,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,17432.96,11,Expired,2026-08-06,High,Active,2024-06-20,340,ops@tatainvest.com,+91-7655116357,True,True
+CLT-REC-00263,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,49258.84,1,Verified,2025-05-27,Low,Active,2024-04-22,399,ops@nipponindi.com,+91-8944464066,True,True
+CLT-REC-00264,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,15423.35,12,Verified,2025-11-17,High,Active,2024-12-20,157,ops@hdfcpensio.com,+91-9924613003,True,True
+CLT-REC-00265,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,,2017-05-22,21168.0,15,Verified,2026-04-30,High,Active,2024-04-08,413,,,False,True
+CLT-REC-00266,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,31406.73,8,Verified,2025-07-05,High,Active,2024-02-02,479,ops@vanguardem.com,+91-9302778908,True,True
+CLT-REC-00267,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,1546.43,3,Pending,2026-02-15,Medium,Active,2024-03-13,439,ops@emiratesnb.com,+91-8385528994,True,True
+CLT-REC-00268,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,9083.41,6,Pending,2025-05-18,Medium,Active,2024-07-29,301,ops@norgesbank.com,+91-7288054670,True,True
+CLT-REC-00269,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,4439.74,3,Verified,2027-01-02,High,Active,2024-01-31,481,ops@blackrocki.com,+91-8899621152,True,True
+CLT-REC-00270,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,23570.92,2,Verified,2026-06-09,Low,Active,2024-11-02,205,ops@tatainvest.com,+91-7603070495,True,True
+CLT-REC-00271,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,46891.1,16,Verified,2025-07-14,Medium,Active,2024-03-18,434,ops@temasekhol.com,+91-9944953242,True,True
+CLT-REC-00272,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,48908.17,6,Verified,2026-11-23,Low,Active,2024-02-08,473,ops@emiratesnb.com,+91-8755655202,True,False
+CLT-REC-00273,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,24497.81,15,Expired,2027-01-31,Low,Active,2024-10-14,224,ops@vanguardem.com,+91-8801534258,True,True
+CLT-REC-00274,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,44845.56,5,Verified,2026-12-08,High,Active,2025-01-24,122,ops@vanguardem.com,+91-8058012395,True,False
+CLT-REC-00275,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,29834.01,6,Verified,2025-07-22,High,Active,2024-11-29,178,ops@vanguardem.com,+91-9567470711,False,True
+CLT-REC-00276,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,,2017-05-22,47675.42,10,Verified,2026-01-26,Medium,Active,2025-03-18,69,,,False,True
+CLT-REC-00277,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,11150.7,1,Verified,2025-05-26,High,Active,2024-03-25,427,ops@abudhabiin.com,+91-9874048475,True,True
+CLT-REC-00278,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,6531.32,2,Pending,2025-09-15,High,Active,2024-08-18,281,ops@nipponindi.com,+91-8956048364,True,True
+CLT-REC-00279,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,42923.7,4,Verified,2026-05-20,Medium,Active,2024-04-28,393,ops@hdfcpensio.com,+91-8191463604,True,True
+CLT-REC-00280,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,20806.17,2,Verified,2026-03-15,Low,Active,2024-01-25,487,ops@kotakmahin.com,+91-9124573898,True,True
+CLT-REC-00281,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,3442.82,6,Verified,2026-12-26,Low,Active,2025-02-08,107,ops@emiratesnb.com,+91-7816502378,True,True
+CLT-REC-00282,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,7847.53,14,Verified,2025-11-02,Low,Active,2024-01-23,489,ops@blackrocki.com,+91-7057326388,True,True
+CLT-REC-00283,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,17171.12,6,Verified,2025-11-23,Medium,Active,2024-10-16,222,ops@gicprivate.com,+91-9460765457,True,True
+CLT-REC-00284,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,46502.83,5,Pending,2025-12-10,Low,Active,2025-04-02,54,ops@licofindia.com,+91-8620114644,True,True
+CLT-REC-00285,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,6091.31,17,Verified,2025-05-03,Medium,Active,2024-06-08,352,ops@tatainvest.com,+91-7184916814,True,True
+CLT-REC-00286,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,3758.21,2,Pending,2027-01-30,High,Active,2024-11-22,185,ops@licofindia.com,+91-9666582120,True,True
+CLT-REC-00287,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,39253.08,14,Verified,2027-01-13,Medium,Active,2024-07-03,327,ops@sbilifeins.com,+91-9110721735,True,True
+CLT-REC-00288,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,19204.09,3,Verified,2026-03-30,Low,Active,2024-12-11,166,ops@tatainvest.com,+91-9083071751,True,False
+CLT-REC-00289,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,20270.96,4,Verified,2026-04-26,Medium,Active,2024-04-22,399,ops@sbilifeins.com,+91-8525847393,True,True
+CLT-REC-00290,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,33313.68,1,Verified,2026-01-21,High,Active,2024-04-27,394,ops@gicprivate.com,+91-7210849973,True,True
+CLT-REC-00291,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,26543.06,5,Verified,2026-02-27,Low,Active,2025-05-23,3,ops@kotakmahin.com,+91-9814819210,True,True
+CLT-REC-00292,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,20457.27,4,Pending,2026-07-24,Low,Active,2025-03-13,74,ops@emiratesnb.com,+91-7057336253,True,True
+CLT-REC-00293,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,1163.1,3,Verified,2025-09-29,Low,Active,2024-01-13,499,ops@abudhabiin.com,+91-7814435781,True,True
+CLT-REC-00294,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,23362.61,11,Verified,2026-06-20,Low,Active,2025-04-20,36,ops@licofindia.com,+91-8578170381,True,True
+CLT-REC-00295,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,36843.77,10,Expired,2026-04-24,Low,Active,2024-09-19,249,ops@norgesbank.com,+91-8935260754,True,True
+CLT-REC-00296,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,39974.05,12,Verified,2027-01-23,High,Active,2024-04-09,412,ops@licofindia.com,+91-9512048780,True,True
+CLT-REC-00297,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,43191.17,5,Verified,2027-04-30,High,Active,2024-04-30,391,ops@licofindia.com,+91-7090406861,True,True
+CLT-REC-00298,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,8492.77,7,Expired,2026-08-19,High,Active,2024-04-26,395,ops@kotakmahin.com,+91-7916978791,True,True
+CLT-REC-00299,CLT0001,Tata Investment Corp,Institutional,APAC,,2019-03-15,16441.42,8,Verified,2025-09-07,High,Active,2024-11-05,202,,,False,True
+CLT-REC-00300,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,13572.45,4,Verified,2025-11-29,High,Active,2024-02-04,477,ops@kotakmahin.com,+91-9459604137,True,True
+CLT-REC-00301,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,43929.82,3,Verified,2026-03-03,Medium,Active,2024-01-16,496,ops@emiratesnb.com,+91-8851305881,True,True
+CLT-REC-00302,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,5949.4,9,Verified,2027-02-24,Low,Active,2024-12-04,173,ops@tatainvest.com,+91-7938060758,True,False
+CLT-REC-00303,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,44360.68,2,Pending,2026-04-25,High,Active,2024-07-18,312,ops@adityabirl.com,+91-9032604207,True,True
+CLT-REC-00304,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,10473.3,3,Verified,2027-03-15,High,Active,2025-04-06,50,,,False,True
+CLT-REC-00305,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,46697.18,17,Pending,2026-04-28,High,Active,2024-06-28,332,ops@temasekhol.com,+91-7569578705,True,True
+CLT-REC-00306,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,43196.44,17,Verified,2025-05-31,High,Active,2025-01-20,126,ops@tatainvest.com,+91-7924233437,True,True
+CLT-REC-00307,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,8303.38,7,Verified,2026-02-09,Low,Active,2024-10-08,230,ops@gicprivate.com,+91-8521976417,True,True
+CLT-REC-00308,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,16966.0,13,Verified,2025-12-12,Low,Active,2024-03-15,437,ops@nipponindi.com,+91-7804854331,True,True
+CLT-REC-00309,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,8564.41,1,Verified,2025-07-04,High,Active,2024-03-09,443,ops@abudhabiin.com,+91-7362833798,False,True
+CLT-REC-00310,CLT0012,Vanguard Emerging Markets,AMC,Americas,,2019-07-15,41946.86,15,Verified,2025-08-22,Medium,Active,2024-07-10,320,,,False,True
+CLT-REC-00311,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,47750.59,18,Verified,2026-06-06,Medium,Active,2024-12-03,174,ops@iciciprude.com,+91-7527778740,True,True
+CLT-REC-00312,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,49680.9,9,Verified,2026-04-14,Medium,Active,2024-10-16,222,ops@vanguardem.com,+91-8545995168,True,True
+CLT-REC-00313,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,44672.54,11,Expired,2026-12-31,High,Active,2025-05-07,19,ops@hdfcpensio.com,+91-7788959570,True,True
+CLT-REC-00314,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,46304.34,4,Verified,2025-05-10,Low,Active,2024-05-28,363,ops@emiratesnb.com,+91-7777093558,False,True
+CLT-REC-00315,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,33542.02,11,Verified,2025-11-05,Medium,Active,2024-10-06,232,ops@licofindia.com,+91-7713049549,True,True
+CLT-REC-00316,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,35048.47,10,Pending,2026-12-01,Low,Active,2024-04-20,401,ops@tatainvest.com,+91-7848823926,True,True
+CLT-REC-00317,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,7583.54,10,Verified,2027-05-11,Medium,Active,2025-01-15,131,ops@kotakmahin.com,+91-8528264699,True,True
+CLT-REC-00318,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,3826.93,6,Verified,2025-12-25,High,Active,2024-08-04,295,ops@licofindia.com,+91-7758015247,True,True
+CLT-REC-00319,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,22819.05,19,Verified,2026-06-15,Low,Active,2024-09-18,250,ops@adityabirl.com,+91-7837874471,True,True
+CLT-REC-00320,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,30153.25,4,Verified,2027-03-26,High,Active,2024-02-04,477,ops@norgesbank.com,+91-7356914787,True,True
+CLT-REC-00321,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,22283.99,14,Verified,2026-11-13,Medium,Active,2024-06-08,352,ops@sbilifeins.com,+91-7649710620,True,True
+CLT-REC-00322,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,34803.05,6,Verified,2025-08-26,High,Active,2025-04-30,26,ops@adityabirl.com,+91-8410273850,False,True
+CLT-REC-00323,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,8980.43,16,Verified,2025-05-22,Low,Active,2024-08-10,289,ops@adityabirl.com,+91-8251320830,True,False
+CLT-REC-00324,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,36601.18,18,Verified,2026-10-25,Medium,Active,2024-04-30,391,ops@tatainvest.com,+91-8325218199,True,True
+CLT-REC-00325,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,47813.86,9,Verified,2027-05-13,Low,Active,2025-03-26,61,ops@iciciprude.com,+91-9410521934,True,True
+CLT-REC-00326,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,7174.27,16,Verified,2025-10-09,High,Active,2024-11-17,190,ops@adityabirl.com,+91-8087273754,True,True
+CLT-REC-00327,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,6650.57,5,Verified,2026-09-07,High,Active,2024-11-20,187,ops@gicprivate.com,+91-9857919232,True,True
+CLT-REC-00328,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,41701.32,5,Verified,2027-04-24,Medium,Active,2025-02-12,103,ops@blackrocki.com,+91-7690397651,True,True
+CLT-REC-00329,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,11612.54,4,Verified,2025-06-07,Low,Active,2024-02-24,457,ops@tatainvest.com,+91-9198518313,True,True
+CLT-REC-00330,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,24750.38,10,Verified,2027-04-24,Medium,Active,2024-04-13,408,ops@norgesbank.com,+91-9337094810,True,True
+CLT-REC-00331,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,15312.89,2,Verified,2025-08-24,High,Active,2025-05-02,24,ops@gicprivate.com,+91-9950351450,True,True
+CLT-REC-00332,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,45888.99,19,Pending,2025-06-22,High,Active,2025-05-26,0,ops@tatainvest.com,+91-7343026668,True,True
+CLT-REC-00333,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,6919.52,11,Verified,2025-07-01,Low,Active,2025-03-09,78,ops@hdfcpensio.com,+91-8939019409,True,True
+CLT-REC-00334,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,21996.44,9,Verified,2026-06-12,Medium,Active,2025-05-22,4,ops@abudhabiin.com,+91-7218188842,True,True
+CLT-REC-00335,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,39422.65,10,Verified,2025-09-12,Medium,Active,2024-10-20,218,ops@emiratesnb.com,+91-8465613064,True,True
+CLT-REC-00336,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,14925.16,12,Verified,2026-07-03,High,Active,2025-02-17,98,ops@kotakmahin.com,+91-8258060304,True,True
+CLT-REC-00337,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,24926.48,14,Verified,2026-07-25,Low,Active,2024-06-30,330,ops@sbilifeins.com,+91-7466364133,True,True
+CLT-REC-00338,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,5045.4,15,Pending,2025-11-29,Low,Active,2024-10-03,235,ops@sbilifeins.com,+91-7380628920,True,True
+CLT-REC-00339,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,27863.36,17,Verified,2026-05-31,Low,Active,2024-04-21,400,ops@iciciprude.com,+91-8280840226,True,True
+CLT-REC-00340,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,37459.31,19,Verified,2026-09-04,Low,Active,2025-03-02,85,ops@emiratesnb.com,+91-7005558471,True,True
+CLT-REC-00341,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,21998.02,8,Verified,2026-03-03,Low,Active,2024-07-06,324,ops@blackrocki.com,+91-7884774186,True,True
+CLT-REC-00342,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,1072.82,1,Verified,2026-04-18,Low,Active,2025-04-30,26,ops@sbilifeins.com,+91-7900689759,True,True
+CLT-REC-00343,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,16710.95,13,Verified,2025-10-31,Low,Active,2024-06-29,331,ops@nipponindi.com,+91-7279872214,True,True
+CLT-REC-00344,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,48282.98,17,Verified,2025-10-01,Medium,Active,2024-10-06,232,ops@tatainvest.com,+91-7488182174,True,True
+CLT-REC-00345,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,40188.58,3,Verified,2026-05-15,Low,Active,2024-04-29,392,ops@gicprivate.com,+91-9028105329,True,True
+CLT-REC-00346,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,48840.79,1,Verified,2025-08-19,High,Active,2024-07-07,323,ops@blackrocki.com,+91-9902565543,True,True
+CLT-REC-00347,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,46746.27,20,Verified,2026-08-19,Medium,Active,2024-12-19,158,ops@hdfcpensio.com,+91-9317641772,True,True
+CLT-REC-00348,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,31932.29,12,Verified,2026-03-18,High,Active,2024-08-24,275,ops@temasekhol.com,+91-9705772823,True,True
+CLT-REC-00349,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,40187.1,7,Expired,2027-02-25,High,Active,2024-08-29,270,ops@licofindia.com,+91-8322923773,True,True
+CLT-REC-00350,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,19958.38,20,Verified,2025-08-30,Medium,Active,2024-03-13,439,ops@nipponindi.com,+91-8403988820,True,True
+CLT-REC-00351,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,37758.13,2,Verified,2026-03-10,Medium,Active,2025-03-14,73,ops@adityabirl.com,+91-9774791096,True,True
+CLT-REC-00352,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,14869.53,9,Verified,2026-03-20,High,Active,2024-01-07,505,ops@gicprivate.com,+91-8115747896,True,True
+CLT-REC-00353,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,10409.5,11,Verified,2026-07-28,Medium,Active,2024-08-02,297,ops@emiratesnb.com,+91-9349271258,True,True
+CLT-REC-00354,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,29719.59,9,Verified,2027-05-18,Medium,Active,2024-10-04,234,ops@licofindia.com,+91-8942282634,True,True
+CLT-REC-00355,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,8128.68,1,Verified,2025-09-15,Medium,Active,2025-04-08,48,ops@sbilifeins.com,+91-8962951029,True,True
+CLT-REC-00356,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,47441.46,10,Verified,2026-01-13,Low,Active,2024-01-25,487,ops@adityabirl.com,+91-9266548876,True,True
+CLT-REC-00357,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,12179.23,4,Verified,2026-10-15,Medium,Active,2025-04-30,26,ops@emiratesnb.com,+91-8932821798,True,True
+CLT-REC-00358,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,8485.59,4,Verified,2025-10-11,High,Active,2025-01-07,139,ops@sbilifeins.com,+91-7148390186,True,True
+CLT-REC-00359,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,26499.07,20,Verified,2027-01-31,High,Active,2024-02-21,460,ops@adityabirl.com,+91-9787754865,True,True
+CLT-REC-00360,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,32705.17,4,Expired,2027-04-06,Medium,Active,2024-03-24,428,ops@adityabirl.com,+91-9476234719,True,False
+CLT-REC-00361,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,12740.17,4,Verified,2026-08-23,High,Active,2024-07-11,319,ops@gicprivate.com,+91-9878846283,True,True
+CLT-REC-00362,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,45432.99,2,Verified,2026-08-17,Low,Active,2025-03-06,81,ops@sbilifeins.com,+91-8612450292,True,True
+CLT-REC-00363,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,46891.37,7,Verified,2027-03-28,Low,Active,2024-12-03,174,ops@tatainvest.com,+91-9574513218,True,True
+CLT-REC-00364,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,36862.7,3,Pending,2027-02-10,Low,Active,2025-02-20,95,ops@iciciprude.com,+91-8752249817,True,True
+CLT-REC-00365,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,17569.41,11,Verified,2026-12-20,Low,Active,2024-02-26,455,ops@sbilifeins.com,+91-9502735965,True,True
+CLT-REC-00366,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,27084.12,9,Verified,2026-09-14,Medium,Active,2024-11-22,185,ops@nipponindi.com,+91-7250275719,True,True
+CLT-REC-00367,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,22170.12,11,Pending,2026-06-30,Low,Active,2024-01-28,484,ops@blackrocki.com,+91-7066088576,True,True
+CLT-REC-00368,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,3440.3,16,Verified,2026-07-17,High,Active,2024-09-17,251,ops@abudhabiin.com,+91-8505323238,True,True
+CLT-REC-00369,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,15997.22,11,Expired,2025-12-18,Low,Active,2024-06-04,356,ops@kotakmahin.com,+91-8088245013,True,True
+CLT-REC-00370,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,15761.7,18,Verified,2025-09-01,Low,Active,2024-11-22,185,ops@emiratesnb.com,+91-7063535084,True,True
+CLT-REC-00371,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,18472.78,3,Verified,2026-09-17,High,Active,2025-02-03,112,ops@nipponindi.com,+91-8605537888,True,True
+CLT-REC-00372,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,7087.23,16,Verified,2025-12-03,Low,Active,2025-03-04,83,ops@abudhabiin.com,+91-8290794389,True,False
+CLT-REC-00373,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,27513.49,8,Verified,2025-12-25,High,Active,2024-06-05,355,ops@adityabirl.com,+91-9021305574,True,True
+CLT-REC-00374,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,43438.58,14,Verified,2026-08-28,Medium,Active,2025-02-05,110,ops@nipponindi.com,+91-7979707855,True,False
+CLT-REC-00375,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,9845.7,9,Verified,2027-01-09,Low,Active,2024-04-16,405,ops@adityabirl.com,+91-8009866152,True,True
+CLT-REC-00376,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,19127.01,7,Verified,2026-02-07,High,Active,2024-03-31,421,ops@iciciprude.com,+91-7447036541,True,True
+CLT-REC-00377,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,17237.67,6,Pending,2026-08-31,Medium,Active,2024-06-01,359,ops@nipponindi.com,+91-9226006768,True,True
+CLT-REC-00378,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,15728.82,2,Verified,2025-12-14,High,Active,2024-07-02,328,ops@licofindia.com,+91-9206291806,True,True
+CLT-REC-00379,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,,2018-03-20,17871.09,6,Verified,2026-05-31,Low,Active,2024-12-04,173,,,False,True
+CLT-REC-00380,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,3133.46,16,Verified,2026-01-15,High,Active,2025-02-08,107,ops@abudhabiin.com,+91-7921673220,True,True
+CLT-REC-00381,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,22930.28,7,Pending,2025-09-10,Low,Active,2025-05-13,13,ops@tatainvest.com,+91-8958398132,True,True
+CLT-REC-00382,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,17304.81,15,Verified,2027-04-19,High,Active,2025-03-16,71,ops@adityabirl.com,+91-7482881550,True,True
+CLT-REC-00383,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,13324.22,4,Verified,2027-03-22,Low,Active,2024-06-16,344,ops@sbilifeins.com,,False,True
+CLT-REC-00384,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,38017.32,10,Verified,2025-07-01,Low,Active,2024-11-25,182,ops@licofindia.com,+91-8116299376,True,True
+CLT-REC-00385,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,43161.15,10,Verified,2026-02-27,Low,Active,2024-01-05,507,ops@nipponindi.com,+91-8926464460,True,True
+CLT-REC-00386,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,29399.97,17,Verified,2025-12-11,Medium,Active,2024-04-29,392,ops@temasekhol.com,+91-7215982676,True,False
+CLT-REC-00387,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,13585.92,12,Expired,2025-07-16,Low,Active,2024-08-25,274,ops@iciciprude.com,+91-7156438010,True,True
+CLT-REC-00388,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,10699.56,15,Expired,2025-08-20,High,Active,2025-01-17,129,ops@nipponindi.com,+91-7732122650,True,True
+CLT-REC-00389,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,6376.15,5,Verified,2026-12-10,Medium,Active,2025-05-12,14,ops@temasekhol.com,+91-9993146892,True,True
+CLT-REC-00390,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,15733.31,3,Verified,2025-09-05,High,Active,2024-12-07,170,ops@blackrocki.com,+91-8057299985,True,True
+CLT-REC-00391,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,33470.46,11,Verified,2025-09-17,Low,Active,2024-06-08,352,ops@temasekhol.com,+91-9883435636,True,True
+CLT-REC-00392,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,15677.96,13,Expired,2026-10-17,Medium,Active,2025-05-22,4,ops@sbilifeins.com,+91-9438231530,True,True
+CLT-REC-00393,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,18039.53,3,Verified,2025-06-20,Low,Active,2024-12-24,153,ops@nipponindi.com,+91-8509496756,False,True
+CLT-REC-00394,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,43424.36,18,Expired,2025-05-12,High,Active,2025-04-13,43,ops@vanguardem.com,+91-9122744519,True,True
+CLT-REC-00395,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,25844.88,14,Expired,2026-08-21,High,Active,2025-04-13,43,ops@norgesbank.com,+91-9789642521,True,True
+CLT-REC-00396,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,22050.84,8,Verified,2027-05-21,High,Active,2024-08-08,291,ops@abudhabiin.com,+91-9554863964,True,True
+CLT-REC-00397,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,1976.35,2,Verified,2026-03-16,Low,Active,2024-07-08,322,ops@licofindia.com,+91-7521131962,True,True
+CLT-REC-00398,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,6370.72,9,Expired,2026-10-19,High,Active,2024-04-08,413,ops@emiratesnb.com,+91-7382400664,True,True
+CLT-REC-00399,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,12569.58,7,Verified,2025-11-15,High,Active,2024-08-20,279,ops@emiratesnb.com,+91-9834528089,True,False
+CLT-REC-00400,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,34916.86,5,Verified,2027-01-07,Low,Active,2024-11-27,180,ops@abudhabiin.com,+91-9094433350,True,True
+CLT-REC-00401,CLT0002,Aditya Birla Capital,Institutional,APAC,,2018-07-22,5423.12,13,Verified,2026-11-16,Medium,Active,2024-10-12,226,,,False,True
+CLT-REC-00402,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,43770.89,8,Verified,2025-07-07,Medium,Active,2024-04-17,404,ops@norgesbank.com,+91-8178452582,True,True
+CLT-REC-00403,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,49273.47,15,Verified,2027-02-28,Medium,Active,2024-08-21,278,ops@vanguardem.com,+91-7555746306,True,True
+CLT-REC-00404,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,22118.5,2,Verified,2026-09-23,High,Active,2024-01-21,491,ops@emiratesnb.com,+91-7343240671,True,True
+CLT-REC-00405,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,30621.62,19,Pending,2025-10-16,Low,Active,2024-03-12,440,ops@blackrocki.com,+91-8613873798,True,True
+CLT-REC-00406,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,26642.81,1,Verified,2026-06-26,Medium,Active,2024-03-06,446,ops@kotakmahin.com,+91-8252599661,True,False
+CLT-REC-00407,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,30459.61,12,Expired,2027-05-25,Medium,Active,2024-01-19,493,ops@adityabirl.com,+91-8657165163,True,True
+CLT-REC-00408,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,13008.56,3,Verified,2025-10-31,High,Active,2024-08-22,277,ops@adityabirl.com,+91-7954372006,False,True
+CLT-REC-00409,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,44783.87,17,Verified,2025-10-03,Low,Active,2024-05-17,374,ops@kotakmahin.com,+91-8576383867,True,True
+CLT-REC-00410,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,44612.12,16,Pending,2025-10-14,Medium,Active,2024-10-10,228,ops@temasekhol.com,+91-7714345273,True,True
+CLT-REC-00411,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,28801.97,14,Verified,2025-10-13,Medium,Active,2024-08-27,272,ops@temasekhol.com,+91-9894729959,True,False
+CLT-REC-00412,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,770.47,16,Verified,2027-03-18,Medium,Active,2024-07-22,308,ops@nipponindi.com,+91-7043581699,True,True
+CLT-REC-00413,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,1113.75,6,Verified,2026-04-24,High,Active,2024-02-11,470,ops@kotakmahin.com,+91-8233851468,True,True
+CLT-REC-00414,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,33629.19,15,Verified,2025-07-01,Medium,Active,2025-01-25,121,ops@vanguardem.com,+91-7626967245,True,True
+CLT-REC-00415,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,37891.34,6,Verified,2025-09-07,Low,Active,2024-11-16,191,ops@nipponindi.com,+91-9732238876,True,True
+CLT-REC-00416,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,13296.07,9,Verified,2025-04-30,Low,Active,2024-10-26,212,ops@vanguardem.com,+91-7310758466,True,True
+CLT-REC-00417,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,46431.85,6,Verified,2025-05-08,Low,Active,2024-08-11,288,ops@licofindia.com,+91-7202694616,True,True
+CLT-REC-00418,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,39215.46,7,Verified,2026-02-27,Medium,Active,2024-08-17,282,ops@sbilifeins.com,+91-8647966709,True,True
+CLT-REC-00419,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,19253.76,19,Verified,2025-06-19,High,Active,2024-02-15,466,ops@tatainvest.com,+91-8232256467,True,True
+CLT-REC-00420,CLT0005,Kotak Mahindra AMC,AMC,APAC,,2021-04-18,48157.5,10,Verified,2026-05-08,Low,Active,2025-02-04,111,,,False,True
+CLT-REC-00421,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,34874.05,2,Verified,2025-09-13,High,Active,2024-06-04,356,ops@adityabirl.com,+91-9162056154,True,True
+CLT-REC-00422,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,45636.73,9,Pending,2026-03-31,Medium,Active,2024-05-09,382,ops@gicprivate.com,+91-7177365746,True,True
+CLT-REC-00423,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,40980.41,17,Verified,2026-11-04,Low,Active,2024-06-24,336,ops@temasekhol.com,+91-7842826224,True,True
+CLT-REC-00424,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,1991.09,2,Verified,2025-04-29,Medium,Active,2024-10-01,237,ops@abudhabiin.com,+91-8861430015,True,True
+CLT-REC-00425,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,23966.9,2,Verified,2027-05-06,Medium,Active,2025-05-10,16,ops@norgesbank.com,+91-8105657328,True,False
+CLT-REC-00426,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,7150.06,5,Pending,2025-08-21,Medium,Active,2024-11-04,203,ops@abudhabiin.com,+91-9501179945,True,True
+CLT-REC-00427,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,34906.57,14,Verified,2026-12-14,Medium,Active,2024-06-22,338,ops@blackrocki.com,+91-9494241154,True,True
+CLT-REC-00428,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,31175.85,7,Pending,2026-08-24,Low,Active,2024-11-23,184,ops@kotakmahin.com,+91-7552175872,True,True
+CLT-REC-00429,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,16135.18,13,Verified,2027-03-31,Medium,Active,2024-03-27,425,ops@blackrocki.com,+91-9549433833,True,True
+CLT-REC-00430,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,26738.37,1,Verified,2026-05-08,Medium,Active,2024-11-22,185,ops@adityabirl.com,+91-8324603956,True,True
+CLT-REC-00431,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,24766.68,16,Verified,2027-04-09,High,Active,2025-01-15,131,ops@adityabirl.com,+91-8152019877,True,True
+CLT-REC-00432,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,40227.59,8,Verified,2026-10-08,Medium,Active,2024-05-30,361,ops@tatainvest.com,+91-9763396193,True,True
+CLT-REC-00433,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,35865.7,16,Verified,2025-12-22,Low,Active,2025-01-28,118,ops@nipponindi.com,+91-9847548812,True,False
+CLT-REC-00434,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,30110.35,4,Verified,2027-05-03,Medium,Active,2024-02-29,452,ops@sbilifeins.com,+91-8942859338,True,True
+CLT-REC-00435,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,12503.06,5,Verified,2025-06-02,Low,Active,2024-07-07,323,ops@sbilifeins.com,+91-8947600327,True,False
+CLT-REC-00436,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,8771.0,20,Verified,2027-02-01,Low,Active,2024-07-30,300,ops@kotakmahin.com,+91-7584311325,True,True
+CLT-REC-00437,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,32877.6,2,Verified,2025-07-15,High,Active,2024-07-11,319,ops@hdfcpensio.com,+91-9219960699,True,True
+CLT-REC-00438,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,7611.7,17,Verified,2025-11-13,Low,Active,2025-05-10,16,ops@licofindia.com,+91-7574663546,True,True
+CLT-REC-00439,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,28100.69,16,Verified,2025-07-16,Medium,Active,2024-10-24,214,ops@vanguardem.com,+91-8692061974,True,True
+CLT-REC-00440,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,31327.08,4,Verified,2026-07-23,Low,Active,2024-02-19,462,ops@hdfcpensio.com,+91-7483367594,True,True
+CLT-REC-00441,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,1051.03,7,Expired,2026-07-17,High,Active,2024-09-25,243,ops@temasekhol.com,+91-8241287475,True,True
+CLT-REC-00442,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,12467.37,3,Verified,2025-08-16,Medium,Active,2024-10-01,237,ops@vanguardem.com,+91-9716933599,True,True
+CLT-REC-00443,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,48764.09,12,Pending,2025-09-18,Low,Active,2025-01-15,131,ops@iciciprude.com,+91-9197400319,True,True
+CLT-REC-00444,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,4755.19,10,Verified,2025-07-21,Medium,Active,2024-05-22,369,ops@kotakmahin.com,+91-8753235764,True,True
+CLT-REC-00445,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,27815.24,20,Verified,2026-04-19,Medium,Active,2024-03-31,421,ops@hdfcpensio.com,+91-7033577254,True,True
+CLT-REC-00446,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,7602.05,12,Verified,2026-03-22,Medium,Active,2024-07-18,312,ops@hdfcpensio.com,+91-9533884243,True,True
+CLT-REC-00447,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,9462.0,11,Pending,2025-05-12,Low,Active,2025-04-04,52,ops@licofindia.com,+91-9731263586,True,True
+CLT-REC-00448,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,610.72,6,Pending,2026-05-02,High,Active,2024-05-23,368,ops@gicprivate.com,+91-9112306945,True,True
+CLT-REC-00449,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,40212.7,15,Pending,2025-07-23,Low,Active,2025-04-19,37,ops@abudhabiin.com,+91-8671401806,True,True
+CLT-REC-00450,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,35310.23,1,Verified,2025-10-09,Low,Active,2024-03-28,424,ops@tatainvest.com,+91-9860758169,True,True
+CLT-REC-00451,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,10341.46,16,Verified,2026-01-16,Medium,Active,2024-08-17,282,ops@licofindia.com,+91-7892334269,True,True
+CLT-REC-00452,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,2362.07,5,Verified,2027-04-17,Medium,Active,2025-02-12,103,ops@vanguardem.com,+91-7428834616,True,False
+CLT-REC-00453,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,48278.89,6,Verified,2026-12-14,Medium,Active,2024-08-13,286,ops@adityabirl.com,+91-7801466267,True,True
+CLT-REC-00454,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,7583.9,18,Pending,2025-12-05,High,Active,2025-05-14,12,ops@hdfcpensio.com,+91-8836729663,True,True
+CLT-REC-00455,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,35041.37,15,Verified,2026-12-11,Low,Active,2025-01-24,122,ops@vanguardem.com,+91-7017499709,True,True
+CLT-REC-00456,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,37200.79,3,Verified,2025-06-26,High,Active,2024-02-01,480,ops@adityabirl.com,+91-7332603683,True,True
+CLT-REC-00457,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,34720.03,11,Verified,2027-03-03,High,Active,2024-07-23,307,ops@temasekhol.com,+91-8555039638,True,True
+CLT-REC-00458,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,31455.85,5,Verified,2027-01-17,Low,Active,2024-07-24,306,ops@adityabirl.com,+91-9398411415,True,True
+CLT-REC-00459,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,32700.22,20,Verified,2027-04-17,Low,Active,2024-06-03,357,ops@licofindia.com,+91-8371127213,True,False
+CLT-REC-00460,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,3114.84,14,Verified,2026-10-17,Medium,Active,2024-01-15,497,ops@sbilifeins.com,+91-7524676838,True,False
+CLT-REC-00461,CLT0006,LIC of India,Insurance,APAC,Arjun Nair,2016-09-30,39807.25,19,Verified,2027-03-19,Low,Active,2025-04-12,44,ops@licofindia.com,+91-8151352100,True,True
+CLT-REC-00462,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,30451.93,6,Expired,2026-12-20,Medium,Active,2024-09-29,239,ops@abudhabiin.com,+91-7863938172,True,True
+CLT-REC-00463,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,25692.96,4,Verified,2026-07-01,Medium,Active,2025-02-25,90,ops@abudhabiin.com,+91-9448742302,True,True
+CLT-REC-00464,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,16351.0,15,Verified,2025-10-15,High,Active,2024-02-04,477,ops@hdfcpensio.com,+91-8236301970,True,True
+CLT-REC-00465,CLT0005,Kotak Mahindra AMC,AMC,APAC,Neha Gupta,2021-04-18,42097.15,3,Pending,2025-11-08,Low,Active,2024-07-01,329,ops@kotakmahin.com,+91-8448613781,True,True
+CLT-REC-00466,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,39652.8,20,Verified,2027-02-18,High,Active,2025-02-08,107,ops@temasekhol.com,+91-7781574644,True,True
+CLT-REC-00467,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,6066.22,14,Verified,2025-05-18,High,Active,2024-07-08,322,ops@sbilifeins.com,+91-8692402668,True,True
+CLT-REC-00468,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,11828.16,14,Verified,2025-06-14,Low,Active,2025-02-15,100,ops@sbilifeins.com,+91-7775831557,True,True
+CLT-REC-00469,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,37602.82,7,Verified,2025-08-03,Medium,Active,2024-01-11,501,ops@tatainvest.com,+91-8794100183,True,True
+CLT-REC-00470,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,10423.81,16,Verified,2027-01-24,Low,Active,2024-04-26,395,ops@blackrocki.com,+91-9232359054,True,True
+CLT-REC-00471,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,13949.92,5,Verified,2026-11-03,Medium,Active,2024-02-01,480,ops@tatainvest.com,+91-8736317242,True,True
+CLT-REC-00472,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,9834.05,19,Verified,2026-01-06,Low,Active,2025-03-04,83,ops@nipponindi.com,+91-9991193994,True,True
+CLT-REC-00473,CLT0003,SBI Life Insurance,Insurance,APAC,Anjali Patel,2020-01-10,6334.31,8,Verified,2026-01-08,Low,Active,2024-11-04,203,ops@sbilifeins.com,+91-7522771219,True,True
+CLT-REC-00474,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,37749.02,20,Verified,2025-10-09,Low,Active,2024-12-21,156,ops@gicprivate.com,+91-7280367118,True,True
+CLT-REC-00475,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,45498.81,8,Verified,2025-10-28,Medium,Active,2025-01-18,128,ops@temasekhol.com,+91-7037412129,True,True
+CLT-REC-00476,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,Erik Larsen,2018-01-17,31920.67,16,Verified,2025-11-15,High,Active,2024-10-28,210,ops@norgesbank.com,+91-8043567159,True,True
+CLT-REC-00477,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,42449.5,5,Verified,2025-09-09,High,Active,2024-09-05,263,ops@adityabirl.com,+91-9146138710,True,True
+CLT-REC-00478,CLT0015,Norges Bank Investment Mgmt,Sovereign,EMEA,,2018-01-17,47434.56,7,Verified,2026-08-29,Medium,Active,2024-04-25,396,,,False,False
+CLT-REC-00479,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,39887.3,19,Verified,2026-06-20,Medium,Active,2024-07-03,327,ops@temasekhol.com,+91-9149673299,True,True
+CLT-REC-00480,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,45345.75,17,Verified,2026-03-31,High,Active,2024-08-06,293,ops@iciciprude.com,+91-7270849633,True,True
+CLT-REC-00481,CLT0010,Abu Dhabi Investment Auth,Sovereign,EMEA,Fatima Al Zaabi,2015-08-11,35271.24,4,Verified,2025-05-26,Medium,Active,2025-02-17,98,ops@abudhabiin.com,+91-9183958667,True,False
+CLT-REC-00482,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,19837.98,1,Verified,2026-02-23,Medium,Active,2025-04-07,49,ops@gicprivate.com,+91-7859510518,True,True
+CLT-REC-00483,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,47931.43,4,Verified,2026-10-27,Medium,Active,2024-08-26,273,ops@tatainvest.com,+91-9668246435,True,True
+CLT-REC-00484,CLT0008,Nippon India MF,AMC,APAC,Deepak Rao,2020-06-14,11294.11,20,Verified,2026-01-14,High,Active,2024-09-02,266,ops@nipponindi.com,+91-7191228839,True,True
+CLT-REC-00485,CLT0013,GIC Private Ltd Singapore,Sovereign,APAC,Chen Wei,2017-05-22,49868.21,7,Pending,2027-02-15,Medium,Active,2024-09-06,262,ops@gicprivate.com,+91-9917869764,True,True
+CLT-REC-00486,CLT0004,HDFC Pension Fund,Pension Fund,APAC,Vikram Singh,2017-11-05,42642.79,11,Pending,2026-06-02,High,Active,2024-07-20,310,ops@hdfcpensio.com,+91-9259959980,True,True
+CLT-REC-00487,CLT0014,Temasek Holdings,Sovereign,APAC,Lim Boon Keng,2016-10-08,36700.99,20,Verified,2026-03-23,Medium,Active,2024-08-11,288,ops@temasekhol.com,+91-9143207256,True,True
+CLT-REC-00488,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,48764.73,1,Pending,2026-06-03,Medium,Active,2025-04-29,27,ops@blackrocki.com,+91-8078547319,True,True
+CLT-REC-00489,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,40623.43,18,Verified,2026-05-16,High,Active,2025-02-20,95,ops@emiratesnb.com,+91-9566470822,True,True
+CLT-REC-00490,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,35906.24,4,Verified,2025-06-19,High,Active,2024-12-31,146,ops@vanguardem.com,+91-7409362360,True,True
+CLT-REC-00491,CLT0012,Vanguard Emerging Markets,AMC,Americas,Sarah Thompson,2019-07-15,20073.19,8,Verified,2027-05-07,Medium,Active,2024-02-27,454,ops@vanguardem.com,+91-7051550174,True,True
+CLT-REC-00492,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,17172.16,12,Verified,2026-04-05,Low,Active,2024-11-24,183,ops@blackrocki.com,+91-8435836601,True,True
+CLT-REC-00493,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,46121.76,18,Verified,2026-03-05,Medium,Active,2024-06-29,331,ops@adityabirl.com,+91-7092149594,True,True
+CLT-REC-00494,CLT0002,Aditya Birla Capital,Institutional,APAC,Rahul Mehta,2018-07-22,8193.41,12,Verified,2025-06-30,Medium,Active,2024-06-23,337,ops@adityabirl.com,+91-7144757117,True,True
+CLT-REC-00495,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,29067.26,12,Verified,2026-03-01,High,Active,2024-05-04,387,ops@tatainvest.com,+91-8322753485,True,True
+CLT-REC-00496,CLT0011,BlackRock India Fund,Hedge Fund,Americas,James Mitchell,2020-02-28,15599.89,11,Verified,2027-05-02,Low,Active,2025-03-05,82,ops@blackrocki.com,+91-9786567855,True,True
+CLT-REC-00497,CLT0002,Aditya Birla Capital,Institutional,APAC,,2018-07-22,35163.13,11,Verified,2026-12-09,Medium,Active,2025-02-10,105,,,False,True
+CLT-REC-00498,CLT0007,ICICI Prudential AMC,AMC,APAC,Sunita Joshi,2019-12-01,18183.49,14,Verified,2026-11-11,Low,Active,2024-10-06,232,ops@iciciprude.com,+91-8247073472,True,True
+CLT-REC-00499,CLT0009,Emirates NBD Asset Mgmt,Institutional,EMEA,Omar Al Rashid,2018-03-20,46781.82,9,Verified,2026-09-18,Low,Active,2024-11-19,188,ops@emiratesnb.com,+91-7640047351,True,True
+CLT-REC-00500,CLT0001,Tata Investment Corp,Institutional,APAC,Priya Sharma,2019-03-15,19481.39,1,Expired,2026-07-08,High,Active,2024-03-28,424,ops@tatainvest.com,+91-8296023011,True,True
